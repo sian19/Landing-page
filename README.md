@@ -1,0 +1,2 @@
+# Landing-page
+Site fictício de página única, feito para testar meus conhecimentos básicos de html e css. Neste simples site de página única trabalhei os conhecimentos adquiridos em html e css. Trabalhei também o conceito de design responsivo através de mediaqueries manipulando os elementos de acordo com os tipos de telas criando assim uma página 100% responsiva e que se adapta a qualquer tipo de tela.
