@@ -4,7 +4,7 @@ Site fictício de página única, feito para testar meus conhecimentos básicos 
 <h3>Imagens do projeto:</h3>
 <img src="https://github.com/sian19/Landing-page/blob/master/images/Projeto_3%2C1.png" alt="imagem">
 
-<img src="" alt="imagem">
+<img src="https://github.com/sian19/Landing-page/blob/master/images/Projeto_3%2C2.png" alt="imagem">
 
 <h3>Link do site:</h3>
 <a href="https://landing-page-theta-nine.vercel.app/">landing-page</a>
